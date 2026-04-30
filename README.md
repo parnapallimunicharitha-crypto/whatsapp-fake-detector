@@ -121,7 +121,7 @@ python -m uvicorn backend.main:app --reload
 ## 📸 Demo Screenshots
 ![image alt](https://github.com/parnapallimunicharitha-crypto/whatsapp-fake-detector/blob/main/backend/Screenshot%202026-04-30%20211905.png?raw=true
 )
-![image alt]("https://github.com/parnapallimunicharitha-crypto/whatsapp-fake-detector/blob/main/backend/Screenshot%202026-04-30%20210844.png?raw=true)
+![image alt](https://github.com/parnapallimunicharitha-crypto/whatsapp-fake-detector/blob/main/backend/Screenshot%202026-04-30%20210844.png?raw=true)
 ![image alt](https://github.com/parnapallimunicharitha-crypto/whatsapp-fake-detector/blob/main/backend/Screenshot%202026-04-30%20210111.png?raw=true)
 ![image alt](https://github.com/parnapallimunicharitha-crypto/whatsapp-fake-detector/blob/main/backend/Screenshot%202026-04-30%20210140.png?raw=true)
 
