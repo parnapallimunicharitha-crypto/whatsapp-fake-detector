@@ -2,6 +2,8 @@
 
 An AI-powered WhatsApp bot that detects scam, phishing, and fraudulent messages in real-time using a hybrid detection engine (rule-based + AI logic).
 
+---
+
 ## 🔍 Overview
 
 This project is designed to identify potentially harmful WhatsApp messages such as:
@@ -112,6 +114,17 @@ MONGO_URI=your_mongodb_uri
 
 ```
 python -m uvicorn backend.main:app --reload
+```
+
+---
+
+## 📸 Demo Screenshots
+![image alt](https://github.com/parnapallimunicharitha-crypto/whatsapp-fake-detector/blob/main/backend/Screenshot%202026-04-30%20211905.png?raw=true
+)
+![image alt]("https://github.com/parnapallimunicharitha-crypto/whatsapp-fake-detector/blob/main/backend/Screenshot%202026-04-30%20210844.png?raw=true)
+![image alt](https://github.com/parnapallimunicharitha-crypto/whatsapp-fake-detector/blob/main/backend/Screenshot%202026-04-30%20210111.png?raw=true)
+![image alt](https://github.com/parnapallimunicharitha-crypto/whatsapp-fake-detector/blob/main/backend/Screenshot%202026-04-30%20210140.png?raw=true)
+
 ---
 
 ## 🚀 How It Works
